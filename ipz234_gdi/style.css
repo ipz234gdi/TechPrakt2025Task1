@@ -12,15 +12,15 @@ header {
     backdrop-filter: blur(20px);
     width: 100%;
     color: #fff;
-    padding: 20px;
+    padding: 19px;
     text-align: center;
-    z-index: 10;
+    z-index: 9;
 }
 
 main {
-    padding: 20px;
+    padding: 19px;
     margin: 0px auto;
-    margin-top: 130px;
+    margin-top: 120px;
     margin-bottom: 60px;
     max-width: 1200px;
 }
@@ -42,7 +42,7 @@ main {
 }
 
 .news h2 {
-    margin: 10px;
+    margin: 20px;
     color: #333;
 }
 
@@ -55,7 +55,7 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
     position: fixed;
     bottom: 0;
     width: 100%;
